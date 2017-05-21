@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WWTBAM</string>
+    <string name="title">Who Wants to be a Millionnaire</string>
+    <string name="enter">Enter</string>
+    <string name="start">Start</string>
+    <string name="done">Done</string>
+
+</resources>

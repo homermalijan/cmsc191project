@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hoommaah/Desktop/WWTBAM/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eff08e2a3e65c144ae43272b063a1dfce60e9b1f">
+        <dex dex="/home/hoommaah/Desktop/WWTBAM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1dd288f45a727f306d7d4e8b16a850dea401f9b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hoommaah/Desktop/WWTBAM/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/hoommaah/Desktop/WWTBAM/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_556786617981a7e29e7e9f641372395c7aabf1d3/classes.dex" />
+    </item>
+
+</items>
